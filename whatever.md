@@ -1,7 +1,7 @@
 # https://github.com/NoahGrant17/Markdown/blob/master/README.md
 # https://steemitimages.com/0x0/http://static.tvtropes.org/pmwiki/pub/images/the_dark_side.png
 
-
+```c
 #include <stdio.h>
 int main (void)
 {
@@ -19,9 +19,9 @@ int main (void)
     printf("\n");
     return 0;
 }
+```
 
-
-[a block quote.]
+a block quote.
 
 a bulleted list.
 
