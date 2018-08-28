@@ -23,8 +23,6 @@ int main (void)
     return 0;
 }
 ```
-<h2>H2
-<h4>H4
 
 
 >a block quote.
@@ -49,3 +47,6 @@ cell 1 | cell 2
 
 ---
 a horizontal rule like the one that follows this list.
+
+<h2>H2
+<h4>H4
