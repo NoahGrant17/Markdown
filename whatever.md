@@ -1,5 +1,8 @@
 # https://github.com/NoahGrant17/Markdown/blob/master/README.md
+
 # https://steemitimages.com/0x0/http://static.tvtropes.org/pmwiki/pub/images/the_dark_side.png
+
+
 
 ```c
 #include <stdio.h>
@@ -21,12 +24,11 @@ int main (void)
 }
 ```
 <h2>H2
-
 <h4>H4
 
 >a block quote.
 
-a bulleted list.
+* a * bulleted * list.
 a numbered list.
 a table.
 **bolded text.**
