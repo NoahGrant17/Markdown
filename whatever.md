@@ -3,7 +3,6 @@
 # https://steemitimages.com/0x0/http://static.tvtropes.org/pmwiki/pub/images/the_dark_side.png
 
 
-
 ```c
 #include <stdio.h>
 int main (void)
@@ -28,10 +27,22 @@ int main (void)
 
 >a block quote.
 
-* a * bulleted * list.
-a numbered list.
-a table.
+* a 
+* bulleted 
+* list.
+
+1. a 
+1. numbered 
+1. list 
+
+a | table.
+-----|--------
+cell 1 | cell 2
+
 **bolded text.**
+
 *italicized text.*
+
 ~~strikethrough text.~~
+
 a horizontal rule like the one that follows this list.
