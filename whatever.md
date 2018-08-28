@@ -1,8 +1,9 @@
 # https://github.com/NoahGrant17/Markdown/blob/master/README.md
 
-# https://steemitimages.com/0x0/http://static.tvtropes.org/pmwiki/pub/images/the_dark_side.png
+# https://www.google.com
 
-
+![](/the_dark_side.png)
+ ![](https://static.comicvine.com/uploads/original/11126/111261107/4938887-3956800867-hrmp_.jpg)
 ```c
 #include <stdio.h>
 int main (void)
@@ -25,6 +26,7 @@ int main (void)
 <h2>H2
 <h4>H4
 
+
 >a block quote.
 
 * a 
@@ -45,4 +47,5 @@ cell 1 | cell 2
 
 ~~strikethrough text.~~
 
+---
 a horizontal rule like the one that follows this list.
