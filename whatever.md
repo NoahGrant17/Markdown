@@ -22,17 +22,10 @@ int main (void)
 ```
 
 a block quote.
-
 a bulleted list.
-
 a numbered list.
-
 a table.
-
-bolded text.
-
-italicized text.
-
+**bolded text.**
+*italicized text.*
 ~~strikethrough text.~~
-
 a horizontal rule like the one that follows this list.
